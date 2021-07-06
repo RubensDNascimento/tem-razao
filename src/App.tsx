@@ -1,12 +1,9 @@
 import React from 'react';
 
-import  Main  from './main/main';
+import Main from './screens/main/main';
 
 function App() {
-
-return(
-   <Main/>
-   );
+  return <Main />;
 }
 
 export default App;
