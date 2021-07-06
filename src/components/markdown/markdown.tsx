@@ -6,6 +6,7 @@ import parse from 'html-react-parser';
 import MathJax from 'react-mathjax';
 import RemarkMathPlugin from 'remark-math';
 import ReactMarkdown from "react-markdown";
+import {MathpixMarkdown, MathpixLoader} from 'mathpix-markdown-it';
 //import equipeMd from '../../assets/equipe.md';
 
 interface MarkdownProps {
@@ -36,10 +37,10 @@ const Markdown:React.FC<MarkdownProps>=(props)=>{
       };
     
       return (
-        <MathJax.Provider >
+        <MathpixLoader>
           
-          <ReactMarkdown  children={markdown} />
-        </MathJax.Provider>
+          <MathpixMarkdown text={markdown}/>
+          </MathpixLoader>
       );
 };
 

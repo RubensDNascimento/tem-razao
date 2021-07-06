@@ -1,5 +1,9 @@
 
 # Frações
+$$
+\tan(x) = \frac{\sin(x)}{\cos{x}}
+$$
+
 
 # O que são frações
 
@@ -22,17 +26,18 @@ Quando repartimos um pedaço de objeto, nós estamos o dividindo. Após a retira
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image1.png "image_tooltip")
+![Image](fracao-parte-retirada.jpeg)
 
 
 Agora para lermos uma fração podemos fazer de duas formas, a primeira forma basta ler o valor do numerador “sobre” o valor do denominador, na fração acima por exemplo lemos: **um** sobre **oito**. Da segunda forma o numerador é lido normalmente enquanto os denominadores são lidos da seguinte forma: quando estes são 2, 3, 4, 5, 6, 7, 8, 9, 10 e múltiplos de 10 utilizamos a nomenclatura de números ordinais, usando o mesmo exemplo é correto dizer: **um oitavo**, e quando os denominadores são maiores que 10 e diferente de múltiplos de 10, se lê o número normalmente e em seguida a palavra “avos”, ou seja, caso uma família de quatro pessoas coma 2 ovos cada um de uma caixa de 12 dizemos que **oito doze avos** da caixa foi consumida e representamos essa fração assim: 
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+$$
+\frac{8}{12}
+$$
 
 
 
@@ -43,7 +48,10 @@ Em uma divisão simples normalmente é representada das seguintes formas: 5÷3, 
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+$$
+\frac{5}{3}
+$$
+
 
 
 
@@ -55,10 +63,6 @@ Os números racionais são **uma ampliação do conjunto dos números inteiros**
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-
- 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.png "image_tooltip")
