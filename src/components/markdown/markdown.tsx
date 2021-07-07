@@ -22,19 +22,6 @@ const Markdown:React.FC<MarkdownProps>=(props)=>{
           .then((res) => res.text())
           .then((text) => setMarkdown(text));
       }, []);
-
-      const newProps = {
-        ...props,
-        plugins: [
-          RemarkMathPlugin,
-        ],
-        renderers: {
-          math: (props: {value: string}) => 
-            <MathJax.Node formula={markdown} />,
-          inlineMath: (props: {value: string}) =>
-            <MathJax.Node inline formula={markdown} />
-        }
-      };
     
       return (
         <MathpixLoader>
